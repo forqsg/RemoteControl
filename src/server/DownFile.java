@@ -9,7 +9,7 @@ import java.io.FileOutputStream;
 import java.net.Socket;
 
 
-
+//ÏÂÔØÏß³Ì
 public class DownFile extends Thread {
 	private String savePath = null;
 	private int bufferSize = 8192;
